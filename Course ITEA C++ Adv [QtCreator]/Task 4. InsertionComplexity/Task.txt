@@ -1,0 +1,1 @@
+You should testing insert, find and remove from STL containers(vector, list, stack, array) and compare their time complexity.
